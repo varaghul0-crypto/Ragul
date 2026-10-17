@@ -1,0 +1,6 @@
+{
+  "name": "FinSafe Campus",
+  "description": "An educational financial-safety simulator for students. Master scam detection, predatory loan traps, and budgeting in a zero-PII sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
